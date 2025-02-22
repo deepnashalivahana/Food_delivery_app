@@ -1,2 +1,8 @@
-# Food_delivery_app
-The Food Delivery Application platform project is designed to create a platform where users can browse, select, purchase, and manage products with secure user login. The platform ensures that any actions taken by the user, such as adding food items &amp; adding restaurant list, are instantly updated and reflected in the user’s account.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
